@@ -1,0 +1,2 @@
+# CharacterFitghtGame
+一款使用java编写的小游戏，只有简单的伤害加减，第一个自己写下用来练习java面向对象的小项目
